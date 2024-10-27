@@ -1,1 +1,1 @@
-![Background Image](https://raw.githubusercontent.com/yui333/valorant-tracker/main/imgs/image.png)
+![Background Image](https://github.com/yui333/valorant-tracker/blob/main/imgs/image.png)
